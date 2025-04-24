@@ -3,9 +3,9 @@ Todo español
 Trbajamos por ramas propias, no es lo correcto pero, tendrán el nombre de cada uno
 
 Tareas:
--Dani: Header y footer
+-Dani: Header
 -Pablo: de los cuerpo de las tres paginas
 -MAría: css
-
+-Luis: Footers
 
 
