@@ -1,6 +1,6 @@
 Camelcase
 Todo español
-Trbajamos por ramas propias, no es lo correcto pero, tendrán el nombre de cada uno
+No trabajamos por ramas ya que el objetivo es conseguir trabajar en equipo resolviendo conflictos
 
 Tareas:
 -Dani: Header
