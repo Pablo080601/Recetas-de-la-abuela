@@ -3,9 +3,9 @@ Todo español
 No trabajamos por ramas ya que el objetivo es conseguir trabajar en equipo resolviendo conflictos
 
 Tareas:
--Dani: Header y footer
+-Dani: Header
 -Pablo: de los cuerpo de las tres paginas
 -MAría: css
-
+-Luis: Footers
 
 
