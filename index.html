@@ -11,29 +11,24 @@
 </head>
 
 <body>
-    <!-- Consejo: Piensa en envolver el contenido principal (h1, img) en una etiqueta <main> para mejor semántica. -->
-    <!-- En este caso si lo pongo porque es la portada pero en los otoros casos el h1 pienso que puede quedar mejor en el header -->
+
     <main>
         <h1>Tortilla de patata</h1>
         <img src="./imagenes/tortillion.png" alt="Una buena tortilla de patata">
     </main>
     <footer>
         <section class="contactanos">
-            <!-- Apunte: Semánticamente, un <h3> no debería ir directamente dentro de un <ul>. Debería estar fuera, 
-        describiendo la lista, o cada <li> podría tener una estructura más compleja si fuera necesario, son sólo apuntes no leyes -->
             <h3>Contactanos</h3>
             <ul>
                 <li>Telefono:+34 123 45 67 89</li>
-                <!-- Apunte: Para el email, considera usar un enlace mailto: <a href="mailto:Tortilla@gmail.com">Tortilla@gmail.com</a> -->
                 <li>Email: Tortilla@gmail.com</li>
             </ul>
         </section>
         <section class="social">
             <h3>Nuestras redes</h3>
-            <!-- IMPORTANTE, Recuerda: Los enlaces <a> necesitan contenido visible (texto o una imagen con "alt") para que el usuario pueda hacer clic y para accesibilidad. -->
-                <a class="Instagram" href="https://Instagram.com/tortilla" target="_blank">
-                    <i class="fab fa-instagram"></i>
-            <a href="https://x.com/tortilla"></a>
+            <a class="Instagram" href="https://Instagram.com/tortilla" alt="Instagram" target="_blank">
+                <i class="fab fa-instagram"></i>
+                <a href="https://x.com/tortilla"></a>
         </section>
     </footer>
 </body>
