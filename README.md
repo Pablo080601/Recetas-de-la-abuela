@@ -38,10 +38,10 @@ Este proyecto ha sido construido utilizando tecnologías web fundamentales:
 
 Este proyecto es una colaboración de aprendizaje entre:
 
-*   **Dani** ([@GithubDeDani](https://github.com/)) - 
-*   **Pablo** ([@GithubDePablo](https://github.com/)) - 
-*   **Luis** ([@GithubDeLuis](https://github.com/)) - 
-*   **María** ([@GithubDeMaria](https://github.com/)) - 
+*   **Dani** ([@GithubDeDani](https://github.com/danifer24)) - 
+*   **Pablo** ([@GithubDePablo](https://github.com/Pablo080601)) - 
+*   **Luis** ([@GithubDeLuis](https://github.com/L-edu1723)) - 
+*   **María** ([@GithubDeMaria](https://github.com/MariaGarciaJordan)) - 
 
 
 ---
