@@ -1,38 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tortilla</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <!-- Añadir: Etiqueta <main> para envolver el contenido principal. Ayuda a la estructura semántica y proporciona un contenedor para centrar con CSS, 
         lo necesito para centrar por fi -->
+    <!-- He dejado el h1 fuera del main porque lo veo mas como para que este dentro del header -->
     <h1>Tortilla de patata</h1>
-    <h2>Ingredientes</h2>
+    <main>
+        <h2>Ingredientes</h2>
 
-    <ul class="ingredientes">
-        <!-- Consejo: Usar barras inclinadas '/' en lugar de barras invertidas '\' para las rutas de archivo web. Es el estándar y más compatible. Ejemplo: ./imagenes/patatas.jpg -->
-        <li><img src="./imagenes\patatas.jpg" alt="patatas">8 Patatas</li> <!--Es genial que añadas "alt" pero añade "imagen" jaja ya que defavorece el trabajo que haces  -->
-        <li><img src="./imagenes\huevos.jpg" alt="huevos">12 Huevos</li>
-        <li><img src="./imagenes\cebolla.jpg" alt="cebolla">1 Cebolla(Si no puedes comerla se puede prescindir de ella)</li>
-        <li><img src="./imagenes\sal.jpg" alt="sal">Una pizca de sal</li>
-        <li><img src="./imagenes/aceite.jpg" alt="aceite">Aceite</li>
-    </ul>
+        <ul class="ingredientes">
+            <!-- Consejo: Usar barras inclinadas '/' en lugar de barras invertidas '\' para las rutas de archivo web. Es el estándar y más compatible. Ejemplo: ./imagenes/patatas.jpg -->
+            <li><img src="./imagenes\patatas.jpg" alt="patatas">8 Patatas</li>
+            <!--Es genial que añadas "alt" pero añade "imagen" jaja ya que defavorece el trabajo que haces  -->
+            <li><img src="./imagenes\huevos.jpg" alt="huevos">12 Huevos</li>
+            <li><img src="./imagenes\cebolla.jpg" alt="cebolla">1 Cebolla(Si no puedes comerla se puede prescindir de
+                ella)</li>
+            <li><img src="./imagenes\sal.jpg" alt="sal">Una pizca de sal</li>
+            <li><img src="./imagenes/aceite.jpg" alt="aceite">Aceite</li>
+        </ul>
+    </main>
     <footer>
         <section class="contactanos">
-        <ul>
-            <h3>Contactanos</h3>
-            <li>Telefono:+34 123 45 67 89</li>
-            <li>Email: Tortilla@gmail.com</li>
-        </ul>
-    </section>
-    <section class="social">
-        <h3>Nuestras redes</h3>
-        <a href="instagram.com/tortilla"></a>
-        <a href="x.com/tortilla"></a>
-    </section>
+            <ul>
+                <h3>Contactanos</h3>
+                <li>Telefono:+34 123 45 67 89</li>
+                <li>Email: Tortilla@gmail.com</li>
+            </ul>
+        </section>
+        <section class="social">
+            <h3>Nuestras redes</h3>
+            <a href="instagram.com/tortilla"></a>
+            <a href="x.com/tortilla"></a>
+        </section>
     </footer>
 </body>
+
 </html>
