@@ -5,7 +5,8 @@ No trabajamos por ramas ya que el objetivo es conseguir trabajar en equipo resol
 Tareas:
 -Dani: Header
 -Pablo: de los cuerpo de las tres paginas
--MAría: css
+-María: css, he añadido comentarios para hacerlo más optimos en los archivos html, en el css añadí comentarios para que si no entendeis lo que hace lo veais con claridad.
+Voy añadir un readme.
 -Luis: Footers
 
 

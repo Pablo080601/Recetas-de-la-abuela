@@ -7,18 +7,23 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- Consejo: Piensa en envolver el contenido principal (h1, img) en una etiqueta <main> para mejor semántica. -->
     <h1>Tortilla de patata</h1>
     <img src="./imagenes/tortillion.png" alt="Una buena tortilla de patata">
     <footer>
         <section class="contactanos">
+    <!-- Apunte: Semánticamente, un <h3> no debería ir directamente dentro de un <ul>. Debería estar fuera, 
+        describiendo la lista, o cada <li> podría tener una estructura más compleja si fuera necesario, son sólo apuntes no leyes -->
         <ul>
             <h3>Contactanos</h3>
             <li>Telefono:+34 123 45 67 89</li>
+            <!-- Apunte: Para el email, considera usar un enlace mailto: <a href="mailto:Tortilla@gmail.com">Tortilla@gmail.com</a> -->
             <li>Email: Tortilla@gmail.com</li>
         </ul>
     </section>
     <section class="social">
         <h3>Nuestras redes</h3>
+        <!-- IMPORTANTE, Recuerda: Los enlaces <a> necesitan contenido visible (texto o una imagen con "alt") para que el usuario pueda hacer clic y para accesibilidad. -->
         <a href="instagram.com/tortilla"></a>
         <a href="x.com/tortilla"></a>
     </section>
@@ -26,3 +31,4 @@
 </body>
 
 </html>
+
